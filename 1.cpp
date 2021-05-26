@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
     cout<<"jai mata di";
-    cout<<"jor se bolo";
+    cout<<"jai mata di";
     return 0;
 }
